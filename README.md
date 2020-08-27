@@ -40,11 +40,6 @@ win修改注册表
 Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
 ```
 
-## GeekBench 跑分
-![显卡跑分](http://ww1.sinaimg.cn/large/007lnJOlgy1ggjxexjn7kj30o10f0q46.jpg)
-![CPU跑分](http://ww1.sinaimg.cn/large/007lnJOlgy1ggjxex385fj30nr0ebwfp.jpg)
-
-
 ## 系统预览
 ![概览](https://raw.githubusercontent.com/William-HL1991/BlogAlbum/master/B460M-MORTAR-10700/XT.png)
 ![电源](https://raw.githubusercontent.com/William-HL1991/BlogAlbum/master/B460M-MORTAR-10700/DY.png)
