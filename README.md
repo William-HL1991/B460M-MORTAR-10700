@@ -1,4 +1,4 @@
-forked from ![abner-xu/efi](https://github.com/abner-xu/efi)
+forked from [abner-xu/efi](https://github.com/abner-xu/efi)
 # 微星B460M+10700+RX5500XT
 > 申明：配置并非本人原创，本人也是初学者，全部配置文件收集于远景论坛
 
